@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6281882870773'] //ur owner number
+global.ownernomer = "6281882870773" //ur owner number2
+global.ownername = "Bhosya" //ur owner name
+global.ytname = "YT: Bhosya" //ur yt chanel name
+global.socialm = "GitHub: Bhosya" //ur github or insta name
+global.location = "Indonesia" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
+global.botname = "Bhosya Bot"
+global.ownernumber = '6281882870773'
+global.ownername = 'Bhosya'
+global.ownerNumber = ["6281882870773@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Bhosya"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wm = "Bhosya"
+global.botscript = 'https://github.com/Bhosya/WhatsappBot-CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "Bhosya\n\n"
+global.creator = "6281882870773@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
